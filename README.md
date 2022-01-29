@@ -13,4 +13,9 @@ Rajiv Gandhi International Airport is an international airport that serves Hyder
 
 1. The distance between Hyderabad Airport to paradise biryani Hyderabad is 8 Km by road. 
 2. You can also find the distance from Hyderabad Airport to paradise biryani Hyderabad using other travel options like bus, subway, tram, train and rail.
-3. Apart from the trip distance, refer Directions from Hyderabad Airport to paradise biryani Hyderabad for road driving directions
+3. Apart from the trip distance, refer Directions from Hyderabad Airport to paradise biryani Hyderabad for road driving directions.
+
+- Hyderabad biryani
+- Butter chicken
+- Mutton kababs
+- Mutton Biryani
