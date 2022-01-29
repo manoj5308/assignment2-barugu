@@ -20,4 +20,4 @@ Rajiv Gandhi International Airport is an international airport that serves Hyder
 - Mutton kababs
 - Mutton Biryani
 
-[link to about me](aboutme.md)
+[link to about me](Aboutme.md)
