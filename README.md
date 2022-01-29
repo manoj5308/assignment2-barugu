@@ -33,3 +33,10 @@ Sports are defined as physical or mental exertion by individuals and are committ
 |  Football | Missouri  |  $30 |
 |  Basketball | Kansas  |  $20 |
 |  Badminton | Maryville | $10 |
+
+***
+### Favourite Quotes
+
+> Dream without fear Love without limits - *Manoj Barugu*
+>
+> Trust In God - *King David*
