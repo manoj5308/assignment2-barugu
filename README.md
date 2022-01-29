@@ -21,3 +21,15 @@ Rajiv Gandhi International Airport is an international airport that serves Hyder
 - Mutton Biryani
 
 [link to about me](Aboutme.md)
+
+***
+### Sports and activities
+
+Sports are defined as physical or mental exertion by individuals and are committed to maintaining physical or mental fitness. There are many types of exercise that can be practiced as a healthy habit, such as walking, riding, Swimming, or athletics, and these sports have many benefits on the human body and mind.
+
+| Name  | Location  |  Price |
+|---|---|---|
+|  Cricket |  Hyderabad |  $50 | 
+|  Football | Missouri  |  $30 |
+|  Basketball | Kansas  |  $20 |
+|  Badminton | Maryville | $10 |
